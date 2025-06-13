@@ -1,7 +1,14 @@
-"A simple password generator webapp using react"
-to run this:
-clone this project to your local machine
-run the following commands
-npm install
-npm rum dev
+A simple password generator webapp using React
 
+To run this:
+
+1. Clone this project to your local machine
+
+2. Navigate into the project folder:
+   cd your-project-folder-name
+
+3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm run dev

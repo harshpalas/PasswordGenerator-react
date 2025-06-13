@@ -7,7 +7,7 @@ const NUMBERS = "0123456789";
 const SYMBOLS = "!@#$%^&*()_+-=[]{}|;:',.<>/?";
 
 export default function App() {
-  const [length, setLength] = useState(0);
+  const [length, setLength] = useState(8);
   const [uppercase, setUppercase] = useState(true);
   const [lowercase, setLowercase] = useState(true);
   const [numbers, setNumbers] = useState(true);
